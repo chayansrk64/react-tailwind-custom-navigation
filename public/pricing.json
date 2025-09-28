@@ -6,9 +6,13 @@
     "features": [
       "Access to cardio machines",
       "Access to weight training area",
-      "Locker room access"
+      "Locker room access",
+      "Free Wi-Fi",
+      "Drinking water station",
+      "Access during staffed hours"
     ],
-    "price": 25
+    "price": 25,
+    "popular": true
   },
   {
     "id": 2,
@@ -18,7 +22,10 @@
       "All Basic Plan features",
       "Access to group fitness classes",
       "Free fitness assessment",
-      "Extended hours access"
+      "Extended hours access",
+      "One guest pass per month",
+      "Discounts on gym merchandise",
+      "Access to stretching & yoga area"
     ],
     "price": 45
   },
@@ -30,7 +37,12 @@
       "All Standard Plan features",
       "Personal trainer (2 sessions/month)",
       "Sauna & steam room access",
-      "Nutrition consultation"
+      "Nutrition consultation",
+      "Unlimited guest passes",
+      "Access to premium equipment",
+      "Priority booking for classes",
+      "Massage therapy discounts",
+      "24/7 gym access"
     ],
     "price": 70
   }
