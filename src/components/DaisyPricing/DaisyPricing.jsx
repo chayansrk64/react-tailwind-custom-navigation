@@ -1,7 +1,7 @@
 import React from 'react';
 
 const DaisyPricing = ({pricing}) => {
-    const {name, price, features, description, popular} = pricing;
+    const {name, price, features, popular} = pricing;
     return (
         <div className="card  shadow-lg flex flex-col">
         <div className="card-body ">

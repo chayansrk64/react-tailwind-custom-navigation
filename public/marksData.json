@@ -1,0 +1,56 @@
+[
+  {
+    "student_id": 1,
+    "name": "Ayesha",
+    "marks": {
+      "physics": 85,
+      "chemistry": 78,
+      "math": 92
+    }
+  },
+  {
+    "student_id": 2,
+    "name": "Rahim",
+    "marks": {
+      "physics": 74,
+      "chemistry": 82,
+      "math": 88
+    }
+  },
+  {
+    "student_id": 3,
+    "name": "Sadia",
+    "marks": {
+      "physics": 91,
+      "chemistry": 89,
+      "math": 95
+    }
+  },
+  {
+    "student_id": 4,
+    "name": "Tanvir",
+    "marks": {
+      "physics": 68,
+      "chemistry": 72,
+      "math": 70
+    }
+  },
+  {
+    "student_id": 5,
+    "name": "Mim",
+    "marks": {
+      "physics": 87,
+      "chemistry": 90,
+      "math": 84
+    }
+  },
+  {
+    "student_id": 6,
+    "name": "Hasib",
+    "marks": {
+      "physics": 80,
+      "chemistry": 76,
+      "math": 83
+    }
+  }
+]
